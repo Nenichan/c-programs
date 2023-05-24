@@ -7,6 +7,6 @@ void main()
     for(i=1; i<=10; i++)
     {
         p=n+i;
-        printf("%d+%d=%d\n",n,i,p);
+        printf("the sum of %d is %d\n",n,p);
     }
 }
